@@ -17,3 +17,7 @@ A simple Streamlit app showing an internal tool that lets you create, manage, an
    ```
    $ streamlit run streamlit_app.py
    ```
+
+### 🤖 100 success agents
+
+This repo includes 100 [Claude Code subagents](https://code.claude.com/docs/en/sub-agents) in `.claude/agents/`. They cover career, business, marketing, finance, productivity, learning, communication, wellbeing, leadership, and engineering for this app. See the full list in [`.claude/AGENT_ROSTER.md`](.claude/AGENT_ROSTER.md). If you're not sure where to start, ask Claude to *"use the success-orchestrator agent"*.
